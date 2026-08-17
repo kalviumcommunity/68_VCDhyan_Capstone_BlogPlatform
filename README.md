@@ -1,3 +1,5 @@
+"PLEASE CHECK MAIN BRANCH FOR THE FULL CODE"
+
 BLOG PLATFORM
 Roadmap
 Concept: Blog Platfom  , Where user can post edit and delete the post , and there will be a AI integration where user can get improvements for the blogs which they are writing , I am creating my frontend by React .js and Backend with Express.js,using bcrypt for user authentication , AI-Powered Content Enhancement,Uses OpenAI GPT API to improve, expand, or auto-generate blog content.Helps users rephrase and enhance their writing for better readability and engagement.
